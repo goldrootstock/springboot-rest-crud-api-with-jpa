@@ -1,4 +1,4 @@
-package com.luv2code.springboot.entity;
+package com.luv2code.springboot.cruddemo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
